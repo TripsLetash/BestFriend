@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="8" build="2" />
+	<region id="TextureBank">
+		<node id="TextureBank">
+			<children>
+				
+			</children>
+		</node>
+	</region>
+	<region id="VisualBank">
+		<node id="VisualBank">
+			<children>
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="c21ab544-ad76-cac0-e14b-cf8d66a616d5" />
+					<attribute id="BoundsMax" type="fvec3" value="0.114353 0.2743855 0.7838455" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.1173107 -0.00984674 -0.2002904" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="7eb1b476-7061-4a21-8eeb-c82ccde2d0b5" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="Trips_SQUIRREL_Body_Bow" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="49f0b0e3-3e97-06d7-9c73-5318ab6b1f16" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Unassigned" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Trips_BestFriend/[PAK]_BestFriend/Body/Squirrel/Trips_SQUIRREL_Body_Bow.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Trips_BestFriend/[PAK]_BestFriend/Body/Squirrel/Trips_SQUIRREL_Body_Bow.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="f5a89932-f9ea-fa8d-c0de-68ff913a84c9" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="243c7362-f0e7-1596-8ae9-9c383c866c2f" />
+							<attribute id="ObjectID" type="FixedString" value="Trips_SQUIRREL_Body_Bow.SQUIRREL_Body_Bow_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="4a483147-403a-cf14-1fea-e365a09d7044" />
+							<attribute id="ObjectID" type="FixedString" value="Trips_SQUIRREL_Body_Bow.SQUIRREL_Body_Fur_Bow_Mesh.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="44765359-7d75-83dd-d7d0-0c69bdfa9808" />
+							<attribute id="ObjectID" type="FixedString" value="Trips_SQUIRREL_Body_Bow.SQUIRREL_Body_Bow_Mesh.2" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+	<region id="MaterialBank">
+		<node id="MaterialBank">
+			<children>
+			</children>
+		</node>
+	</region>
+</save>

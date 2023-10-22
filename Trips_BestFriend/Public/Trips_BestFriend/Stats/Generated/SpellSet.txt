@@ -1,0 +1,3 @@
+new spellset "Squirrel_StandAloneSummonActions"
+add spell "Shout_Dash_NPC"
+add spell "Shout_Disengage"
